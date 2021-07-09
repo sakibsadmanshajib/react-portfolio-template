@@ -8,8 +8,6 @@ import codeIcon from "./images/code.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
-import codepenIcon from "./images/codepen.svg"
-import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
 
 export default {
@@ -17,21 +15,21 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "sakib",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "I wanna see the world",
     //Line 2 For Header
-    "products, brands,",
+    "be a Type II Civilization",
     //Line 3 For Header
-    "and experience",
+    "in my lifetime",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "According to Kardashev scale, a Type I civilization, also known as planetary civilization would be able to use all the resources effectively available in their home planet. A Type II Civilization would be able to effectively extract energy from its star of their star-planetary system.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "mail@sakibsadmanshajib.com",
 
   // End Header Details -----------------------
 
@@ -174,18 +172,10 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
-    {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
-    },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
-    },
+    { img: githubIcon, url: "https://github.com/sakibsadmanshajib" },
     {
       img: instagramIcon,
-      url: "https://www.instagram.com/",
+      url: "https://www.instagram.com/sakibsadmanshajib",
     },
   ],
 
